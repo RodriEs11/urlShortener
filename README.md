@@ -6,6 +6,6 @@ This is the boilerplate code for the URL Shortener Microservice project. Instruc
 ## Configuracion    
  
 
-Agregar el archivo `config.env` para conectar con MongoDB con el siguiente formato:
+Agregar el archivo `keys.env` para conectar con MongoDB con el siguiente formato:
 
 `URI=<connection string>`
